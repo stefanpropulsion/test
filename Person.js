@@ -7,6 +7,7 @@ class Person {
 
   getFullName() {
     fullName = Person.firstname + ' ' + Person.lastname;
+    return 'Dog';
   }
 
 }
